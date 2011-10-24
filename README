@@ -1,0 +1,8 @@
+An assertion library for Node.js. Allows for very intuitive assertion testing. It embraces and encourages Behavior Driven Development.
+
+Example:
+someObject.should.be.an.instanceof(Objet);
+or
+aString.should.be.a.string
+
+Documentations: http://mansoorsayed.com/should-node/docs/
